@@ -2,6 +2,12 @@
 <h3 align="center">A passionate frontend developer from Bhārat.</h3>
 
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HarshAnand143.HarshAnand143&"  />
+</div>
+
+###
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AkashDeep143) 
 
